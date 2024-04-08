@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: https://github.com/githubtrainingfordev/setup/invitations
+- Facilitator: @parul
 
 ## Class Resources
 
